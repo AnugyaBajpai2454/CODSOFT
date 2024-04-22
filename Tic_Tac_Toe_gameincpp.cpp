@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    char grid[3][3] = {
+    char grid_line[3][3] = {
         {' ', ' ', ' '}, 
         {' ', ' ', ' '}, 
         {' ', ' ', ' '}
